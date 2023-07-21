@@ -1,0 +1,8 @@
+organization=batch4java
+projectKey=batch4java_javaaapp1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.44036
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=batch4java_javaaapp1&branch=master
+ceTaskId=AYlo5EUOfATgNAkUMOqm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYlo5EUOfATgNAkUMOqm
